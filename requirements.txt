@@ -10,6 +10,6 @@ Kivy-Garden==0.1.4
 Pillow==6.2.1
 Pygments==2.4.2
 pypiwin32==223
-pywin32==225
+pywin32==301
 requests==2.22.0
 urllib3==1.25.6
